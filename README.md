@@ -5,7 +5,7 @@ I used HTML5 , CSS3 and JavaScript (ES6 - DOM functionalities) in achieving this
 **The calcutor uses:**
 *Addition (+)*
 
-*Subtration (-)*
+*Subtraction (-)*
   
 *Division(/)*
   
