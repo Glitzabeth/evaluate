@@ -1,0 +1,60 @@
+
+body, html{
+margin: 0;
+padding: 0;
+}
+
+body {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Lucida Grande';
+}
+
+header {
+  position: absolute;
+}
+
+/*Calculator area and content*/
+.container {
+  background-color: #454549;
+  display:flex;
+  flex-direction: column;
+  margin-top: 180px;
+  margin-bottom: 100px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.3em;
+  text-align: center;
+  width: max-content;
+}
+
+/*Calculator buttons*/
+button {
+  margin: 5px;
+  width: 51px;
+}
+
+/* buttons covering two space*/
+.xTwoBtn {
+  width: 117px;
+}
+
+.adjustLay {
+  margin: 10px;
+}
+
+#display {
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+  margin: 10px;
+  text-align: right;
+  direction: ltr;
+  width: 280px;
+  overflow: hidden;
+  height: 55px;
+  font-size: 30px;
+}
+
