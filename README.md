@@ -1,13 +1,12 @@
 # Evaluate
 A simple calculator that uses the basic arithmetic function
+I used HTML5 , CSS3 and JavaScript (ES6 - DOM functionalities) in achieving this task.
 
-I used HTML5 , CSS3 and JavaScript (ES6 - DOM functionalities) in achieving this task
 ## The calcutor uses:
-
-## *Addition (+);
-## *Subtration (-)
-## *Division(/)
-## *Multiplication(x)
+*Addition (+);
+*Subtration (-)
+*Division(/)
+*Multiplication(x)
 
 ## Pending Issues are:
 *It does not reset automatically, in other to perform another evaluation, You have to press "C" to reset and "CE" to clear a value.
