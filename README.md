@@ -7,6 +7,6 @@ I used HTML5 , CSS3 and JavaScript (ES6 - DOM functionalities) in achieving this
 ## *Addition (+);
 ## *Subtration (-)
 ## *Division(/)
-## *Multiplication(*)
+## *Multiplication(x)
 
 Its easy to navigate through with this simple functionalities
